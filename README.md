@@ -68,6 +68,3 @@ pip install streamlit pandas scikit-learn
 ⸻
 
 This README gives a complete, beginner-friendly guide to running the app locally.
-If you want, I can also make a “ready-to-run” Windows batch file so you can just double-click to launch the app without opening PowerShell at all.
-
-Do you want me to do that?
